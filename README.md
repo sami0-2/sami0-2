@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋, I'm Samson Amanuel (NeoMech Sam)
 
-<!--
-**sami0-2/sami0-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🔭 Currently working on: Robotics projects & IoT systems
+- 🌱 Learning: Python, C++, ROS2, and advanced algorithms
+- 🎯 Goal: Build innovative robotics systems and join A2SV
+- ⚡ Fun fact: I love skating around Addis and making tech content!
 
-Here are some ideas to get you started:
+### 🛠 Skills
+- **Languages:** Python, C++, Arduino
+- **Tools:** ROS2, Git, Arduino IDE, VS Code
+- **Hardware:** Microcontrollers, Sensors, Motors
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 GitHub Stats
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)
+
+### 📫 Connect with Me
+- Telegram: [@neomech_sam_ch](https://t.me/neomech_sam_ch)
